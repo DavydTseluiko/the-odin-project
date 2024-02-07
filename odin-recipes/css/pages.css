@@ -3,8 +3,11 @@ h2 {
     color: #fff;
     background-color: #000;
     text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
-p, ul, ol {
+p,
+ul,
+ol {
     color: rgb(50, 42, 42);
 }
