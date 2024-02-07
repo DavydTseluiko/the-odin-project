@@ -1,5 +1,10 @@
-h1, h2 {
+h1,
+h2 {
     color: #fff;
     background-color: #000;
     text-align: center;
+}
+
+p, ul, ol {
+    color: rgb(50, 42, 42);
 }
