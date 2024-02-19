@@ -16,14 +16,19 @@ a {
 
 body {
     font-family: "Roboto", sans-serif;
-    background-color: #1f2937;
 }
 
 /* HEADER */
 
-.wrapper {
+.section-one {
+    background-color: #1f2937;
+    height: 100vh;
+}
+
+.container {
     max-width: 1280px;
     margin: 0 auto;
+    padding: 0 10px;
 }
 
 .header {
@@ -64,7 +69,7 @@ body {
 
 .page {
     display: flex;
-    margin-top: 150px;
+    margin-top: 165px;
     align-items: center;
     gap: 70px;
 }
