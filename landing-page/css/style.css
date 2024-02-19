@@ -52,12 +52,46 @@ body {
 /* PAGE */
 
 .page__image {
+    flex: 1 0 550px;
     color: #e5e7eb88;
     font-size: 18px;
     background-color: #ffffff53;
-    width: 400px;
-    height: 170px;
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.page {
+    display: flex;
+    margin-top: 150px;
+    align-items: center;
+    gap: 70px;
+}
+
+.page__information {
+    flex: 1 1 auto;
+}
+
+.page__information *:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.page__title {
+    font-size: 48px;
+    font-weight: 700;
+    color: #f9faf8;
+}
+
+.page__description {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.page__button {
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 15px;
+    color: #f9faf8;
+    background-color: #3882f6;
 }
