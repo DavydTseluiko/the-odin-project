@@ -48,3 +48,16 @@ body {
     color: #e5e7eb;
     font-size: 18px;
 }
+
+/* PAGE */
+
+.page__image {
+    color: #e5e7eb88;
+    font-size: 18px;
+    background-color: #ffffff53;
+    width: 400px;
+    height: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
