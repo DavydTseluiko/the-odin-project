@@ -107,12 +107,16 @@ body {
 
 /* SECTION 2 */
 
+.section-two {
+    padding: 50px 10px;
+}
+
 .info__title {
     font-size: 36px;
     color: #1f2937;
     font-weight: 700;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .flex {
