@@ -173,3 +173,39 @@ body {
     font-weight: 700;
     color: #1f2937;
 }
+
+/* SECTION 4 */
+
+.section-four {
+    margin: 100px 0;
+    padding: 0 50px;
+}
+
+.form__flex {
+    background-color: #3882f6;
+    border-radius: 10px;
+    padding: 40px 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.form__title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #f9faf8;
+    margin-bottom: 5px;
+}
+
+.form__description {
+    font-size: 18px;
+    color: #e5e7ebae;
+}
+
+.form__button {
+    padding: 10px 30px;
+    border: 1px solid #f9faf8;
+    border-radius: 10px;
+    color: #f9faf8;
+    font-weight: 700;
+}
