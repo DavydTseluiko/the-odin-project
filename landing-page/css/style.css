@@ -155,3 +155,21 @@ body {
 .section-three {
     background-color: #e5e7eb;
 }
+
+.quotation .container {
+    padding: 100px 110px;
+}
+
+.quotation__text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+}
+
+.quotation__author {
+    text-align: right;
+    font-size: 36px;
+    font-weight: 700;
+    color: #1f2937;
+}
