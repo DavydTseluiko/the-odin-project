@@ -209,3 +209,15 @@ body {
     color: #f9faf8;
     font-weight: 700;
 }
+
+/* FOOTER */
+
+.footer {
+    background-color: #1f2937;
+    padding: 30px 0;
+}
+
+.footer p {
+    text-align: center;
+    color:#e5e7eb;
+}
