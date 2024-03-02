@@ -28,6 +28,11 @@ body {
     max-width: 1100px;
 }
 
+.section-two,
+.section-three {
+    padding: 50px 10px;
+}
+
 /* SECTION 1 / HEADER */
 
 .section-one {
@@ -108,7 +113,7 @@ body {
 /* SECTION 2 */
 
 .section-two {
-    padding: 50px 10px;
+    margin: 50px 0;
 }
 
 .info__title {
@@ -143,4 +148,10 @@ body {
 .flex__text {
     text-align: center;
     font-size: 18px;
+}
+
+/* SECTION 3 */
+
+.section-three {
+    background-color: #e5e7eb;
 }
